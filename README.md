@@ -26,4 +26,6 @@ PERMANOVA works by randomly permuting (rearranging) the observations within the 
 
 PERMANOVA is a robust and versatile method for analyzing multivariate data, especially when the data do not meet the assumptions of traditional parametric approaches or when dealing with complex ecological or biological datasets. It provides a powerful tool for testing the significance of group differences while accounting for the interrelationships among multiple variables.
 
+An example code in R is provided in this repository following the site: https://archetypalecology.wordpress.com/2018/02/21/permutational-multivariate-analysis-of-variance-permanova-in-r-preliminary/
+
 
