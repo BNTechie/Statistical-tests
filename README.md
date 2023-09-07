@@ -1,4 +1,4 @@
-# PARMANOVA: Permutational Multivariate Analysis of Variance (PERMANOVA)
+# PERMANOVA: Permutational Multivariate Analysis of Variance (PERMANOVA)
 
 Permutational Multivariate Analysis of Variance (PERMANOVA) is a non-parametric statistical method used to assess the differences in multivariate data among groups or treatments. It is particularly useful when the assumptions of traditional parametric techniques like MANOVA (Multivariate Analysis of Variance) are not met or when dealing with complex ecological or biological data.
 
