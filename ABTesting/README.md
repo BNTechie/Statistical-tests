@@ -1,5 +1,3 @@
-# A/B Testing Tutorial
-
 ## What is A/B Testing?
 
 A/B testing, also known as split testing, is a method of comparing two versions of a webpage, app, or other product to determine which one performs better. It involves creating two variants (A and B), with a single variation between them, and then testing them simultaneously to see which one yields better results.
