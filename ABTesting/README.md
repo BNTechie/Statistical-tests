@@ -142,27 +142,20 @@ By implementing A/B testing, ShopSmart identified that the more urgent and entic
 - **Thorough Testing:** Test the implementation thoroughly in a controlled environment before launching the live test.
 - **Quality Assurance:** Implement robust quality assurance processes to verify data collection and analysis methods.
 
-### Fundamental Resources and Research Articles for Further Study
+### Some intuitive resources for further reading
 
 #### Books:
 1. **"Statistical Methods for Research Workers" by Ronald A. Fisher**
    - This foundational book introduces key concepts in experimental design and statistical analysis.
-
-2. **"Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing" by Ron Kohavi, Diane Tang, and Ya Xu**
-   - This book provides a comprehensive guide to designing and implementing A/B tests in online environments.
 
 #### Research Articles:
 1. **"Controlled Experiments on the Web: Survey and Practical Guide" by Ron Kohavi, Roger Longbotham, Dan Sommerfield, and Randal M. Henne**
    - This paper surveys the landscape of online controlled experiments and provides practical advice for conducting them.
    - [Read the Article](https://ai.stanford.edu/~ronnyk/2009controlledExperimentsOnTheWebSurvey.pdf)
 
-2. **"Practical Guide to Controlled Experiments on the Web: Listen to Your Customers not to the HiPPO" by Ron Kohavi and Stefan Thomke**
-   - This article emphasizes the importance of data-driven decisions in web experiments and offers practical guidance.
-   - [Read the Article](https://dl.acm.org/doi/10.1145/1538788.1538805)
-
-3. **"Seven Pitfalls to Avoid when Running Controlled Experiments on the Web" by Ron Kohavi, Alex Deng, Roger Longbotham, and Ya Xu**
+2. **"Seven Pitfalls to Avoid when Running Controlled Experiments on the Web" by Ron Kohavi, Alex Deng, Roger Longbotham, and Ya Xu**
    - This paper discusses common mistakes in running web experiments and how to avoid them.
-   - [Read the Article](https://ai.stanford.edu/~ronnyk/2014PitfallsTR.pdf)
+   - [Read the Article](https://www.researchgate.net/publication/263089710_Seven_Rules_of_Thumb_for_Web_Site_Experimenters)
 
 #### Online Resources:
 1. **Optimizely Blog**
