@@ -161,11 +161,8 @@ By implementing A/B testing, ShopSmart identified that the more urgent and entic
    - [Read the Article](https://www.researchgate.net/publication/263089710_Seven_Rules_of_Thumb_for_Web_Site_Experimenters)
 
 #### Online Resources:
-1. **Optimizely Blog**
-   - The Optimizely blog offers numerous articles, case studies, and best practices for A/B testing.
-   - [Visit the Blog](https://www.optimizely.com/insights/blog/)
 
-2. **Google Optimize Help Center**
+1. **Google Optimize Help Center**
    - The Google Optimize Help Center provides guides, tutorials, and resources for conducting A/B tests using Google Optimize.
    - [Visit the Help Center](https://support.google.com/optimize/)
 
