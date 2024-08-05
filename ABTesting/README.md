@@ -20,7 +20,7 @@ A/B testing is useful in various scenarios, such as:
 - **Product Features**: Assessing new features or changes in functionality.
 - **User Onboarding**: Optimizing the onboarding process for new users.
 
-### Scenario: Implementing A/B Testing in an Email Campaign
+### Implementing A/B Testing in an Email Campaign
 
 **Background:**
 
