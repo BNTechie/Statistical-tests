@@ -154,7 +154,7 @@ By implementing A/B testing, ShopSmart identified that the more urgent and entic
 #### Research Articles:
 1. **"Controlled Experiments on the Web: Survey and Practical Guide" by Ron Kohavi, Roger Longbotham, Dan Sommerfield, and Randal M. Henne**
    - This paper surveys the landscape of online controlled experiments and provides practical advice for conducting them.
-   - [Read the Article](https://ai.stanford.edu/~ronnyk/2007ControlledExperimentsOnTheWeb.pdf)
+   - [Read the Article](https://ai.stanford.edu/~ronnyk/2009controlledExperimentsOnTheWebSurvey.pdf)
 
 2. **"Practical Guide to Controlled Experiments on the Web: Listen to Your Customers not to the HiPPO" by Ron Kohavi and Stefan Thomke**
    - This article emphasizes the importance of data-driven decisions in web experiments and offers practical guidance.
